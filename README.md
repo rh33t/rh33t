@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @elvishnk5
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-elvishnk5/elvishnk5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @marcelvishnk
+- 👀 I’m interested in coding , security and gaming.
+- 🌱 I’m currently learning techs about software development and security. 
+- 💞️ I’m looking to collaborate on all about to contribute to my learning and. 
+- 📫 How to reach me : @marcelvishnk on social media. 
