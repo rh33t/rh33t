@@ -10,5 +10,4 @@ I'm a junior cybersecurity analyst who loves participating in Capture The Flag (
 ![Marc-Elvis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kraaakilo&show_icons=true&theme=dark)
 
 ## Contact
-- 📧 Email: marcelvishnk@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/marc-elvis)
