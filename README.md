@@ -1,8 +1,5 @@
-
-# Hi there, I'm Marc-Elvis! 👋
-
-## About Me
-I'm a junior cybersecurity analyst who loves participating in Capture The Flag (CTF) competitions, coding security tools, and a bit of development. I enjoy solving complex security challenges and creating innovative solutions to enhance system security.
+# About Me
+I’m a junior cybersecurity analyst focused on reverse engineering, red teaming, and CTFs.
 
 [Visit My Website](https://kraaakilo.com)
 
