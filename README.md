@@ -3,8 +3,5 @@ I’m a junior cybersecurity analyst focused on reverse engineering, red teaming
 
 [Visit My Website](https://triplea.red)
 
-## GitHub Activity
-![Marc-Elvis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kraaakilo&show_icons=true&theme=tokyonight)
-
 ## Contact
 - 🔗 [LinkedIn](https://www.linkedin.com/in/marc-elvis)
