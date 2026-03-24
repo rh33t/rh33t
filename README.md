@@ -1,4 +1,9 @@
-# About Me
-I’m a junior cybersecurity analyst focused on reverse engineering, red teaming, and CTFs.
+Reverse Engineer · Red Teamer
 
-[triplea.red](https://triplea.red)
+Offensive security, binary exploitation, malware analysis, infrastructure hardening.
+
+Arch Linux · Proxmox · i3wm
+
+---
+
+[triplea.red](https://triplea.red) · [root@triplea.red](mailto:root@triplea.red) · [linkedin](https://linkedin.com/in/marc-elvis)
