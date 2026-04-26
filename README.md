@@ -6,4 +6,4 @@ Arch Linux · Proxmox · i3wm
 
 ---
 
-[triplea.red](https://triplea.red) · [root@triplea.red](mailto:root@triplea.red) · [linkedin](https://linkedin.com/in/marc-elvis)
+[triplea.red](https://triplea.red) · [root@triplea.red](mailto:root@triplea.red)
