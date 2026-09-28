@@ -4,4 +4,4 @@ Offensive security, binary exploitation, malware analysis, infrastructure harden
 
 ---
 
-[triplea.red](https://triplea.red) · [root@triplea.red](mailto:root@triplea.red)
+[rh33t.red](https://rh33t.red)
